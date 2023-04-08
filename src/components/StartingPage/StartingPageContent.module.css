@@ -1,0 +1,18 @@
+.starting {
+    margin: 3rem auto;
+    text-align: center;
+  }
+  
+  .starting h1 {
+    font-size: 4rem;
+    color: rgb(244, 255, 31);
+    background-color: rgb(144, 17, 17);
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
+  .starting h3 {
+    color:red;
+  }
+  .starting h4 {
+    color: green;
+  }
